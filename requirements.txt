@@ -1,0 +1,6 @@
+my_bot_folder/
+├── 📄 bot.py                 (asosiy bot kodi)
+├── 📄 talabalar.xlsx         (talabalar ma'lumotlari)
+├── 📄 .env                   (bot tokeni)
+├── 📄 requirements.txt       (kutubxonalar)
+└── 📄 excel_yaratish.py      (ixtiyoriy: excel yaratish)
